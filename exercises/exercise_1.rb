@@ -22,4 +22,4 @@ store3 = Store.create(
   mens_apparel:   true,
   womens_apparel: false
 )
-puts "Total store number: #{Store.count}"
+puts "Total stores number: #{Store.count}"
